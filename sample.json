@@ -1,0 +1,26 @@
+[
+  {
+    "nav-links": {
+      "_typ": "NAV_LINK",
+      "id": "TEST_ID_3",
+      "order": 3,
+      "isShown": false
+    }
+  },
+  {
+    "nav-links": {
+      "_typ": "NAV_LINK",
+      "id": "TEST_ID_1",
+      "order": 1,
+      "isShown": true
+    }
+  },
+  {
+    "nav-links": {
+      "_typ": "NAV_LINK",
+      "id": "TEST_ID_2",
+      "order": 2,
+      "isShown": false
+    }
+  }
+]

@@ -1,0 +1,1 @@
+INSERT INTO `bucket-one`.`scope-one`.`nav-links`(KEY, VALUE) VALUES  ("TEST_ID_3", {"_typ":"NAV_LINK","id":"TEST_ID_3","order":3,"isShown":false}), ("TEST_ID_1", {"_typ":"NAV_LINK","id":"TEST_ID_1","order":1,"isShown":true}), ("TEST_ID_2", {"_typ":"NAV_LINK","id":"TEST_ID_2","order":2,"isShown":false})
