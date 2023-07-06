@@ -1,8 +1,8 @@
-# Couchbase N1QL data insertion query generator
+# Couchbase N1QL data mirror query generator
 
 ### Use case 🖼🖼
 
-When you don't want to do data entry record by record from old database to new database (Seeking for a dynamic data injection) ~~
+When you don't want to do data entry record by record from old database to new database (Seeking for a dynamic way to mirror the CouchBase data records) ~~
 
 ### Example 🚀🚀
 
